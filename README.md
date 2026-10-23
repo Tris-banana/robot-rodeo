@@ -7,5 +7,6 @@ At the end of the three days, every team competed in an elimination bracket to d
 ## The game
 This year's game was about collecting hay bales and depositing them in trailers and hoppers. 
 We created a catapult robot to shoot the hay bales into the top of the hoppers, and we made it to the semi-finals.
+
 ---
 This repository contains the code that I created during this competition to control our catapult robot.
